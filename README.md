@@ -1,4 +1,4 @@
-# Customer Onboarding Application Architecture
+# AWS Serverless Customer Onboarding Application 
 
 ![customeronboardingapp-architecture](https://github.com/user-attachments/assets/a73a952c-a622-40cf-a85d-eee45b0fb67a)
 
