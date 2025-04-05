@@ -1,5 +1,6 @@
 # Customer Onboarding Application Architecture
 
+![customeronboardingapp-architecture](https://github.com/user-attachments/assets/a73a952c-a622-40cf-a85d-eee45b0fb67a)
 
 ## Overview
 
