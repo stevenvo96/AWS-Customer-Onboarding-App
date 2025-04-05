@@ -32,7 +32,11 @@ The solution will involve several AWS services to ensure scalability, security, 
 
 ## Setup
 
-**Clone the Repository**:
-   ```bash
+**1. Clone the Repository**:
+    ```bash
    git clone https://github.com/your-repo/customer-onboarding-aws.git
+   ```
+**2. Navigate to the project directory**:
+    ```bash
    cd customer-onboarding-aws
+   ``` 
