@@ -37,3 +37,9 @@ The solution will involve several AWS services to ensure scalability, security, 
     ```bash
     git clone https://github.com/your-repo/customer-onboarding-aws.git
     ```
+## Contact
+If you have any questions or comments about the project, please contact:
+Steven Vo - [vosteven96@gmail.com](mailto:your.vosteven96@gmail.com) [Linkedin](https://www.linkedin.com/in/steven-vo-91960422b/)
+
+## Conclusion
+Thank you for exploring this project! 
