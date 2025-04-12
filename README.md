@@ -39,7 +39,7 @@ The solution will involve several AWS services to ensure scalability, security, 
     ```
 ## Contact
 If you have any questions or comments about the project, please contact:
-Steven Vo - [vosteven96@gmail.com](mailto:your.vosteven96@gmail.com) [Linkedin](https://www.linkedin.com/in/steven-vo-91960422b/)
+Steven Vo - [Linkedin](https://www.linkedin.com/in/ovnevets/)
 
 ## Conclusion
 Thank you for exploring this project! 
